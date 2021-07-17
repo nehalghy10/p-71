@@ -1,0 +1,77 @@
+.row::after {
+    content: nt: ""
+        clear:both;
+    display: table;
+}
+
+.travel_maimDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid Black;
+}
+
+.travel_mainDiv img {
+    width: 320;
+    height: 350px;
+
+}
+
+.travel_mainDiv hr {
+    width: 100%
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px
+}
+
+#AchivementsID {
+    padding-bottom: 10px
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orangered
+}
+
+.enviorment_li {
+    margin-top: 14px
+}
+
+.enivorment_li h4 {
+    border-bottom: 1px solid:Black;
+    padding: 8px;
+}
+
+.enivorment_li img {
+    border-radius: 25px height:250px;
+}
+
+.enivorment_li p {
+    margin-top: 10px
+}
+
+.header_entepreneur {
+    line-height: 2px;
+}
+
+.book {
+    cursor: pointer
+}
+
+book_br {
+    margin-bottom: 25px;
+}
